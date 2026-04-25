@@ -1,0 +1,27 @@
+# .NET build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# VS Code
+.vscode/
+
+# Test results
+TestResults/
+
+# Generated data files
+tasks.json
+test_tasks_*.json
+
+# Rider IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
